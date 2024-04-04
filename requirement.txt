@@ -1,0 +1,5 @@
+gemini
+langchain
+stramlit
+python-dotenv
+PyPDF2
